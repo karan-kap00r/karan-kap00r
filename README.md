@@ -5,10 +5,10 @@
 </div>
 
 - 🔭 I’m currently working with developing apps
-- 🌱 I’m familiar with Competitive Programming, Flutter Development, C++, Java and many more...
+- 🌱 I’m familiar with Competitive Programming, Flutter Development, Android Development, C++, Java and many more...
 - 👯 I’m looking to collaborate on more Open Source Projects & build some great Apps
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karan-kapoor-686630210/)
-- 😄 Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">...Competitve Programmer...Software Engineer
+- 😄 Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">...Competitve Programmer...Software Engineer
 - ⚡ In my free time, I love to solve coding problems or play cricket or drawing.
 
 
