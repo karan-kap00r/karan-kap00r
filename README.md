@@ -35,5 +35,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karan-kap00r&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
- <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" width="900" height="400"/>
+
 
