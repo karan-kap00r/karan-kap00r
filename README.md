@@ -35,5 +35,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karan-kap00r&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+### Contributions :
+<img src="https://github.com/karan-kap00r/karan-kap00r/blob/output/github-contribution-grid-snake-dark.svg" title="Contributions" alt="Contributions" width="900" height="500"/>&nbsp;
