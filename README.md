@@ -59,6 +59,7 @@
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karan-kap00r&theme=dark&background=000000)](https://git.io/streak-stats)
+|<img src="https://github-readme-stats.vercel.app/api?username=karan-kap00r&&show_icons=true&count_private=true&include_all_commits=true"/>|
 
 </div>
 
