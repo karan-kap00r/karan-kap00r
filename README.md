@@ -6,7 +6,7 @@
 </div>
 
 - 🔭 I’m currently working with developing scalable and robust apps
-- 🌱 I’m familiar with Competitive Programming, Python, Flask, FastAPI, C++and many more...
+- 🌱 I’m familiar with Python, Flask, FastAPI, C++and many more...
 - 👯 I’m looking to collaborate on more Open Source Projects & build some great apps
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karan-kapoor-686630210/)
 - 😄 Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">...Competitve Programmer...Software Engineer
